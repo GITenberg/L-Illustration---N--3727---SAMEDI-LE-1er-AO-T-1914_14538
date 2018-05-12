@@ -1,0 +1,28 @@
+_repo: L-Illustration---N--3727---SAMEDI-LE-1er-AO-T-1914_14538
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14538-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: L'Illustration
+gutenberg_issued: '2004-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14538'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'Illustrated periodicals -- France'
+- !lcc 'D501'
+title: L'Illustration, No. 3727, 1er Août 1914
+url: http://www.gutenberg.org/ebooks/14538
